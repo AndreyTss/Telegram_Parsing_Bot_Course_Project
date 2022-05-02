@@ -1,11 +1,9 @@
 Secret.py
 .idea
-__pycache__
+logs/
 
-__pycache__/
-*.py[cod]
-*$py.class
-.DS_Store
+__pycache__
+logs/
 
 # C extensions
 *.so
